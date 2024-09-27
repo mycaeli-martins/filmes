@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  background("#8BC34A");
+  background("#red");
   let idade = campoIdade.value();
   let gostaDeRomance = campoRomance.checked();
   let gostaDeAventura = campoAventura.checked();
